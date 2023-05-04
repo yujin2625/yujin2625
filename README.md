@@ -26,4 +26,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=yujin17&theme=dracula&show_icons=true" width="42%" />
 </a>
 
-I'm currently studying at Cheonnam University.
+<br><br><br>
+
+- 🔭 I'm currently studying at Cheonnam University.
+- 🌱 I’m interested in GameProgramming, AI, MR/VR/AR.
+- 🧸 What I have Experienced : 한국전자통신연구원 연구연수생(2022..~2022..)
