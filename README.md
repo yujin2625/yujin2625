@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **yujin17/yujin17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&section=header&height=200&text=Yujin%20Park%20🐈&fontSize=90&animation=twinkling&stroke=eeeeee&customColorList=0,1,3,4,6,8,9,10,11,12,13,14,15,16,17,18,19,21,24,27,28)
 
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&section=header&height=200&text=Yujin%20Park%20🐈&fontSize=90&animation=twinkling&stroke=eeeeee&customColorList=0,1,3,4,6,8,9,10,11,12,13,14,15,16,17,18,19,21,24,27,28)
+<br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin17&exclude_repo=yujin17.github.io&layout=compact&theme=dracula" />
 </a>
