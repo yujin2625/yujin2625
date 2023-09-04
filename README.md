@@ -31,7 +31,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=yujin17&theme=dracula&show_icons=true" width="42%" />
 </a>
 
-<br><br><br>
+<br><br>
+
+<img src="https://img.shields.io/badge/Unity-#FFFFFF?style=flat-square&logo=simpleicons_Unity&logoColor=white"/>
+
+<br>
 
 - 🔭 I'm currently studying at Cheonnam University.
 - 🌱 I’m interested in GameProgramming, AI, MR/VR/AR.
