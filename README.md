@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div>
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&section=header&height=200&text=Yujin%20Park%20🐈&fontSize=90&animation=twinkling&stroke=eeeeee&customColorList=0,1,3,4,6,8,9,10,11,12,13,14,15,16,17,18,19,21,24,27,28)
-
+</div>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin17%2Fhit-counter&count_bg=%239FC8FF&title_bg=%23FFADAD&icon=unrealengine.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
