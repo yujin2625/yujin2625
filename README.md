@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-E23232?style=flat-square&logo=Unity&logoColor=white"/>
 
 <br>
 
