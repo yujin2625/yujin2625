@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin17%2Fhit-counter&count_bg=%239FC8FF&title_bg=%23FFADAD&icon=unrealengine.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-239FC8F?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <br>
 
 <a href="s">
