@@ -46,3 +46,12 @@ Here are some ideas to get you started:
 - 📚 Academic presentation I have been to
   - 2022년도 한국통신학회 추계종합학술발표회 "혼합현실 기술 응용 분야에 관한 사례 연구" (2022.11.16.~2022.11.28.)
   - 2023년도 (사)한국스마트미디어학회 종합학술대회 "Unity ML-Agents 및 STT 활용 TPS 게임 환경 및 몰입도 개선" (2023.04.27.~2023.04.29)
+
+
+<br>
+
+### My Projects
+1. [2D Platformer Game]<https://github.com/yujin17/JoystickProj>
+2. [Capstone Project]<https://github.com/yujin17/yujin_Client_Game-design-using-machine-learning-and-speech-recognition>
+3. [3D TPS Game (currently making)]<https://github.com/yujin17/Shooting_Game_With_ML>
+4. [2D RPG Game (currently making)]<https://github.com/BlueBell-Town/BlueBell-Town>
