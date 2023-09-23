@@ -29,19 +29,6 @@ Here are some ideas to get you started:
 </p>
   <br>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin17&exclude_repo=yujin17.github.io&layout=compact&theme=dracula" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujin17&theme=dracula&show_icons=true" width="42%" />
-</a>
-
-<br><br>
-
-
-
-<br>
-
 - 🔭 I'm currently studying at Cheonnam University.
 - 🌱 I’m interested in GameProgramming, AI, MR/VR/AR.
 - 🧸 What I have Experienced
@@ -60,3 +47,12 @@ Here are some ideas to get you started:
 2. [Capstone Project](https://github.com/yujin17/yujin_Client_Game-design-using-machine-learning-and-speech-recognition)
 3. [3D TPS Game (currently making)](https://github.com/yujin17/Shooting_Game_With_ML)
 4. [2D RPG Game (currently making)](https://github.com/BlueBell-Town/BlueBell-Town)
+
+
+<br>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin17&exclude_repo=yujin17.github.io&layout=compact&theme=dracula" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=yujin17&theme=dracula&show_icons=true" width="42%" />
+</a>
