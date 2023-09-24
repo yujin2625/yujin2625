@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently studying at Cheonnam University.
 - 🌱 I’m interested in GameProgramming, AI, MR/VR/AR.
 - 🧸 What I have Experienced
-  - 한국전자통신연구원 연구연수생 (2022.07.01.~2022.08.31.)
+  - [한국전자통신연구원 연구연수생](https://github.com/yujin17/Etri-ResearchTrainee) (2022.07.01.~2022.08.31.)
 - 🏆 What I have been Rewarded
   - 한국스마트미디어학회 2023년도 종합학술대회 학부생논문경진대회 우수논문상 (2023.04.29.)
 - 📚 Academic presentation I have been to
