@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin17%2Fhit-counter&count_bg=%239FC8FF&title_bg=%23FFADAD&icon=Unity.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin17%2Fhit-counter&count_bg=%239FC8FF&title_bg=%23FFADAD&icon=unity.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 <p align="left">
@@ -43,10 +43,10 @@ Here are some ideas to get you started:
 <br>
 
 ## My Projects
-1. [2D Platformer Game](https://github.com/yujin17/JoystickProj)
-2. [Capstone Project](https://github.com/yujin17/yujin_Client_Game-design-using-machine-learning-and-speech-recognition)
-3. [3D TPS Game (currently making)](https://github.com/yujin17/Shooting_Game_With_ML)
-4. [2D RPG Game (currently making)](https://github.com/BlueBell-Town/BlueBell-Town)
+1. [[Unity]2D Platformer Game](https://github.com/yujin17/JoystickProj)
+2. [[Unity3D]Capstone Project](https://github.com/yujin17/yujin_Client_Game-design-using-machine-learning-and-speech-recognition)
+3. [[Unity3D]3D TPS Game (currently making)](https://github.com/yujin17/Shooting_Game_With_ML)
+4. [[Unity]2D RPG Game (currently making)](https://github.com/BlueBell-Town/BlueBell-Town)
 
 
 <br>
