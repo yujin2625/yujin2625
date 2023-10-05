@@ -45,7 +45,10 @@ Here are some ideas to get you started:
 ## My Projects
 1. [Unity] [2D Platformer Game](https://github.com/yujin17/JoystickProj)
 2. [Unity3D] [Capstone Project](https://github.com/yujin17/yujin_Client_Game-design-using-machine-learning-and-speech-recognition)
-
+3. [Unity3D] [3D TPS Game (currently making)](https://github.com/yujin17/Shooting_Game_With_ML)
+4. [Unity] [2D RPG Game (currently making)](https://github.com/BlueBell-Town/BlueBell-Town)
+5. [Unity3D] [3D Top-down MMORPG Game (Just started)](https://github.com/yujin17/3DMMORPG)
+6. 
 <br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin17&exclude_repo=yujin17.github.io&layout=compact&theme=dracula" />
