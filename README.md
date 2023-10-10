@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 <br>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin17&exclude_repo=yujin17.github.io&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin2625&exclude_repo=yujin17.github.io&layout=compact&theme=dracula" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujin17&theme=dracula&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yujin2625&theme=dracula&show_icons=true" width="42%" />
 </a>
