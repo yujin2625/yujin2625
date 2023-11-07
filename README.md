@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 3. [Unity3D] [3D TPS Game (currently making)](https://github.com/yujin17/Shooting_Game_With_ML)
 4. [Unity] [2D RPG Game (currently making)](https://github.com/BlueBell-Town/BlueBell-Town)
 5. [Unity3D] [3D Top-down Roguelike Game (currently making)](https://github.com/BurstGameTeam/BGT_PracticeProject)
-6. [unity3D]
+6. [unity3D] [3D RPG Game (currently making)](https://github.com/yujin2625/GameProgrammingRPG)
 
 <br>
 <a href="s">
