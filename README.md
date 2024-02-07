@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 </p>
   <br>
 
-- 🔭 I'm currently studying at Cheonnam University.
+- 🔭 I'm currently studying at Cheonnam University. Expected to graduate at 2024.08.
 - 🌱 I’m interested in GameProgramming, AI, MR/VR/AR.
 - 🧸 What I have Experienced
   - [한국전자통신연구원 연구연수생](https://github.com/yujin17/Etri-ResearchTrainee) (2022.07.01.~2022.08.31.)
+  - WITCHES 인턴십 (2023.12.26.~2024.02.21.)(진행중)
 - 🏆 What I have been Rewarded
   - 한국스마트미디어학회 2023년도 종합학술대회 학부생논문경진대회 우수논문상 (2023.04.29.)
 - 📚 Academic presentation I have been to
@@ -44,11 +45,11 @@ Here are some ideas to get you started:
 
 ## My Projects
 1. [Unity] [2D Platformer Game](https://github.com/yujin17/JoystickProj)
-2. [Unity3D] [Capstone Project](https://github.com/yujin17/yujin_Client_Game-design-using-machine-learning-and-speech-recognition)
-3. [Unity3D] [3D TPS Game (currently making)](https://github.com/yujin17/Shooting_Game_With_ML)
-4. [Unity] [2D RPG Game (currently making)](https://github.com/BlueBell-Town/BlueBell-Town)
-5. [Unity3D] [3D Top-down Roguelike Game (currently making)](https://github.com/BurstGameTeam/BGT_PracticeProject)
-6. [unity3D] [3D RPG Game (currently making)](https://github.com/yujin2625/GameProgrammingRPG)
+2. [Unity3D] [3D TPS Game for Capstone Project](https://github.com/yujin17/yujin_Client_Game-design-using-machine-learning-and-speech-recognition)
+3. [Unity] [2D RPG Game (currently making)](https://github.com/BlueBell-Town/BlueBell-Town)
+4. [Unity] [2D Puzzle Visual Nobel](https://github.com/yujin2625/InteractionProgrammingFinalProj)
+5. [Unity3D] [3D Top-down Roguelike Game](https://github.com/BurstGameTeam/BGT_PracticeProject)
+6. [UnityAR,3D] [AR Interaction for art gallery]
 
 <br>
 <a href="s">
