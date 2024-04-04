@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 - 🧸 What I have Experienced
   - [한국전자통신연구원 연구연수생](https://github.com/yujin17/Etri-ResearchTrainee) (2022.07.01.~2022.08.31.)
   - WITCHES 인턴십 (2023.12.26.~2024.02.21.)
-  - [H2CTLAB](https://maicosmos.com/g5/) 인턴십 (2024.03.04.~2024.07.11.진행중)
 - 🏆 What I have been Rewarded
   - 한국스마트미디어학회 2023년도 종합학술대회 학부생논문경진대회 우수논문상 (2023.04.29.)
 - 📚 Academic presentation I have been to
