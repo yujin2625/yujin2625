@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <br>
 
 - 🔭 I'm currently studying at Cheonnam University. Expected to graduate at 2025.02.
+- 🏢 I'm working at [Wapplab](http://www.wapplab.com/).
 - 🌱 I’m interested in GameProgramming, AI, MR/VR/AR.
 - 🧸 What I have Experienced
   - [한국전자통신연구원 연구연수생](https://github.com/yujin17/Etri-ResearchTrainee) (2022.07.01.~2022.08.31.)
