@@ -43,14 +43,13 @@ Here are some ideas to get you started:
 
 
 <br>
-<!--
 ## My Projects
 1. [Unity] [2D Platformer Game 2021](https://github.com/yujin17/JoystickProj)
 2. [Unity3D] [3D TPS Game for Capstone Project 2023](https://github.com/rlawlgns3433/Game-design-using-machine-learning-and-speech-recognition)
 3. [Unity] [2D Puzzle Visual Nobel 2023](https://github.com/yujin2625/InteractionProgrammingFinalProj)
 4. [Unity3D] [3D Top-down Roguelike Game 2023]
 5. [UnityAR,3D] [AR Interaction for art gallery 2023~2024]
--->
+
 <br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin2625&exclude_repo=yujin17.github.io&layout=compact&theme=dracula" />
