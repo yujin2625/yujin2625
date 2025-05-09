@@ -25,14 +25,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 </p>
   <br>
 
-- 🔭 I'm currently studying at Cheonnam University. Expected to graduate at 2025.02.
-- 🌱 I’m interested in GameProgramming, AI, MR/VR/AR.
+- 🏢 I’m currently part of a team using Unity at a company specializing in CBT(computer-based training) and simulation development.
+- 🌱 I’m interested in GameProgramming, MR/VR/AR, Digital Twin, Metaverse.
+- 🏫 I graduated from Cheonnam University with a bachelor's degree at 2025.02.
 - 🧸 What I have Experienced
-  - [한국전자통신연구원 연구연수생](https://github.com/yujin17/Etri-ResearchTrainee) (2022.07.01.~2022.08.31.)
-  - WITCHES 인턴십 (2023.12.26.~2024.02.21.)
+  - [ETRI(Electronics and Telecommunications Research Institute) research trainee](https://github.com/yujin17/Etri-ResearchTrainee) (2022.07.01.~2022.08.31.)
+  - WITCHES intern (2023.12.26.~2024.02.21.)
 - 🏆 What I have been Rewarded
   - 한국스마트미디어학회 2023년도 종합학술대회 학부생논문경진대회 우수논문상 (2023.04.29.)
 - 📚 Academic presentation I have been to
@@ -44,11 +46,10 @@ Here are some ideas to get you started:
 <!--
 ## My Projects
 1. [Unity] [2D Platformer Game 2021](https://github.com/yujin17/JoystickProj)
-2. [Unity3D] [3D TPS Game for Capstone Project 2023](https://github.com/yujin17/yujin_Client_Game-design-using-machine-learning-and-speech-recognition)
-3. [Unity] [2D RPG Game (currently making) 2023](https://github.com/BlueBell-Town/BlueBell-Town)
-4. [Unity] [2D Puzzle Visual Nobel 2023](https://github.com/yujin2625/InteractionProgrammingFinalProj)
-5. [Unity3D] [3D Top-down Roguelike Game 2023](https://github.com/BurstGameTeam/BGT_PracticeProject)
-6. [UnityAR,3D] [AR Interaction for art gallery 2023~2024]
+2. [Unity3D] [3D TPS Game for Capstone Project 2023](https://github.com/rlawlgns3433/Game-design-using-machine-learning-and-speech-recognition)
+3. [Unity] [2D Puzzle Visual Nobel 2023](https://github.com/yujin2625/InteractionProgrammingFinalProj)
+4. [Unity3D] [3D Top-down Roguelike Game 2023]
+5. [UnityAR,3D] [AR Interaction for art gallery 2023~2024]
 -->
 <br>
 <a href="s">
