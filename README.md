@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujin17%2Fhit-counter&count_bg=%239FC8FF&title_bg=%23FFADAD&icon=unity.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 <p align="left">
