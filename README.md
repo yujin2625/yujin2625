@@ -15,7 +15,8 @@
 </p>
   <br>
   
-### [📑 My Protfolio](https://tasty-churu.notion.site/4e29000ecd4f45cfac20144af7b22986)
+### [📑 My Korean Protfolio](https://tasty-churu.notion.site/1f58b8c2e68080c9a2e7c78d8c3999f2?pvs=4)
+### [📑 My English Protfolio](https://tasty-churu.notion.site/Portfolio-1f58b8c2e68080c38f2ad2329c3fa655?pvs=4)
   
   <br>
 
