@@ -33,7 +33,7 @@
   - 2023년도 (사)한국스마트미디어학회 종합학술대회 "Unity ML-Agents 및 STT 활용 TPS 게임 환경 및 몰입도 개선" (2023.04.27.~2023.04.29)
 - 📫 How to reach me
   - yujin2625@gmail.com
-  - Telegram : @tastychuru
+  - Discord : tastychuru
 
 <br>
 
