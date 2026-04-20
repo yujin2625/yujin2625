@@ -20,12 +20,13 @@
   
   <br>
 
-- 🏢 I’m currently part of a team using Unity at a company specializing in CBT(computer-based training) and simulation development.
+- 🏢 I’m currently working as a developer at a game development company.
 - 🌱 I’m interested in GameProgramming, MR/VR/AR, Digital Twin, Metaverse.
 - 🏫 I graduated from Cheonnam University with a bachelor's degree at 2025.02.
 - 🧸 What I have Experienced
-  - [ETRI(Electronics and Telecommunications Research Institute) research trainee](https://github.com/yujin17/Etri-ResearchTrainee) (2022.07.01.~2022.08.31.)
-  - WITCHES intern (2023.12.26.~2024.02.21.)
+  - [ETRI(Electronics and Telecommunications Research Institute) research trainee](https://github.com/yujin17/Etri-ResearchTrainee) (2022.07.01. ~ 2022.08.31.)
+  - WITCHES intern (2023.12.26. ~ 2024.02.21.)
+  - PDSolution (2025.03 ~ 2025.08)
 - 🏆 What I have been Rewarded
   - 한국스마트미디어학회 2023년도 종합학술대회 학부생논문경진대회 우수논문상 (2023.04.29.)
 - 📚 Academic presentation I have been to
@@ -40,9 +41,3 @@
 
 <br>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin2625&exclude_repo=yujin17.github.io&layout=compact&theme=dracula" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=yujin2625&theme=dracula&show_icons=true" width="42%" />
-</a>
