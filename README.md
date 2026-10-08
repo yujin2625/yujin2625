@@ -22,9 +22,9 @@
 
 - 🏢 I’m currently working as a developer at a game development company.
 - 🌱 I’m interested in GameProgramming, MR/VR/AR, Digital Twin, Metaverse.
-- 🏫 I graduated from Cheonnam University with a bachelor's degree at 2025.02.
+- 🏫 I graduated from Chonnam National University with a bachelor's degree in Feb 2025.
 - 🧸 What I have Experienced
-  - [ETRI(Electronics and Telecommunications Research Institute) research trainee](https://github.com/yujin17/Etri-ResearchTrainee) (2022.07.01. ~ 2022.08.31.)
+  - ETRI(Electronics and Telecommunications Research Institute) research trainee (2022.07.01. ~ 2022.08.31.)
   - WITCHES intern (2023.12.26. ~ 2024.02.21.)
   - PDSolution (2025.03 ~ 2025.08)
 - 🏆 What I have been Rewarded
